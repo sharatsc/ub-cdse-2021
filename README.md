@@ -5,5 +5,5 @@ We will introduce Azure Machine Learning, a platform for developers and data sci
 
 ## Contents
 * [Preparation](Preparation.md) : Use this link to set up your Azure subscription prior to the lecture
+* [Introduction](azureml.ppt): A short presentation introducing you to Azure Machine Learning Service (<small>[Original source](https://slideplayer.com/slide/16452249/).</small>)
 * [Resources](Resource.md): You can use this link to find out more about AzureML service and its application. 
-
