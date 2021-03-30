@@ -25,3 +25,9 @@ AzureML designer provides a drag and drop experience to build machine learning p
 ## Jupyter
 You can also use AzureML through its python SDK. Example notebooks can be found [here](https://github.com/Azure/MachineLearningNotebooks). While you can use the SDK from any local/hosted compute of your choice, AzureML also provides managed notebook experience with pre-configured environments to accelerate your custom ML workflow. 
 ![image](https://docs.microsoft.com/en-us/azure/machine-learning/media/tutorial-1st-experiment-sdk-setup/expand-user-folder.png)
+
+In this example, we illustrate a simple training, evaluation code
+* [scikit-learn model](00_Automobile.ipynb)
+
+We then add Azure ML features such as experiment tracking, logging, model registration and deployment.
+* [azureml](01_Automobile.ipynb)
