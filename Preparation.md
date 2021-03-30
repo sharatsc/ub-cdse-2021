@@ -12,5 +12,5 @@ AzureML workspace is a central repository of all your machine learning assets in
 #### Create a new workspace
 This will take you to a resource creation dialog similar to the one below
 <img src=https://docs.microsoft.com/en-us/azure/machine-learning/media/how-to-manage-workspace/create-workspace.gif>
-You can select an existing resource group or create a new resource group to hold the AzureML workspace. The workspace uses other azure resource such as storage, key vault, application insight and container registry. You can chose to reuse existing resources by selecting it or create new resources. 
+You can select an existing resource group or create a new resource group to hold the AzureML workspace. The workspace uses other azure resource such as storage, key vault, application insight and container registry. You can chose to reuse existing resources by selecting it or create new resources. You can follow the instructions [here](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml#create-a-workspace)
 ![image](https://user-images.githubusercontent.com/1269880/110253140-c1301180-7f56-11eb-96a1-aab3c242b8be.png)
